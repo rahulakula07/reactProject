@@ -1,0 +1,28 @@
+
+#brain-page-Div{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    gap:200px;
+    margin-top: 200px;
+}
+#brain-left{
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#brain-left #p1{
+    color:blueviolet;
+}
+#brain-left button{
+    width:140px;
+    padding:7px;
+    border:none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+}
+#brain-right img{
+    border-radius: 5px;
+}

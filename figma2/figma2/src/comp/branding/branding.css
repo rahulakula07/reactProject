@@ -1,0 +1,27 @@
+#branding-page-Div{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    gap:200px;
+    margin-top: 200px;
+}
+#brand-left{
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#brand-left #p1{
+    color:blueviolet;
+}
+#brand-left button{
+    width:140px;
+    padding:7px;
+    border:none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+}
+#brand-right img{
+    border-radius: 5px;
+}

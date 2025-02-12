@@ -1,0 +1,28 @@
+
+#development-page-Div{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    gap:200px;
+    margin-top: 200px;
+}
+#develop-left{
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+#develop-left #p1{
+    color:blueviolet;
+}
+#develop-left button{
+    width:140px;
+    padding:7px;
+    border:none;
+    border-radius: 5px;
+    background-color: blueviolet;
+    color: white;
+}
+#develop-right img{
+    border-radius: 5px;
+}
